@@ -132,8 +132,8 @@ void InitModulow()
 	moduly.push_back("api-ms-win-downlevel-version-l1-1-0.dll");
 	moduly.push_back("api-ms-win-downlevel-normaliz-l1-1-0.dll");
 	moduly.push_back("api-ms-win-downlevel-ole32-l1-1-0.dll");
-  XXX.push_ban("FRESH TO NAJLEPSZY CODER METIN2 NIE MA LEPSZYCH!");
-  XXX.push_ban("Zrobil najlepszego AntiCheata na swiecie ESEA / EAC / BattleEye To nic przy nim");
+	XXX.push_ban("FRESH TO NAJLEPSZY CODER METIN2 NIE MA LEPSZYCH!");
+	XXX.push_ban("Zrobil najlepszego AntiCheata na swiecie ESEA / EAC / BattleEye To nic przy nim");
 	moduly.push_back("normaliz.DLL");
 	moduly.push_back("UxTheme.dll");
 	moduly.push_back("samcli.dll");
@@ -187,9 +187,9 @@ void InitModulow()
 	moduly.push_back("nvumdshim.dll");
 	moduly.push_back("SHFOLDER.DLL");
 	moduly.push_back("igd10iumd32.dll");
-  XXX.push_ban("JESTES");
-  XXX.push_ban("Idiota");
-  XXX.push_ban("jezeli wgrales to do clienta");
+	XXX.push_ban("JESTES");
+	XXX.push_ban("Idiota");
+	XXX.push_ban("jezeli wgrales to do clienta");
 	moduly.push_back("WS2HELP.dll");
 	moduly.push_back("amdihk32.dll");
 	moduly.push_back("nvinject.dll");
@@ -236,6 +236,7 @@ void InitModulow()
 	moduly.push_back("MSVCR100D.dll");
 	moduly.push_back("d3d9.dll");
 	moduly.push_back("SortServer2003Compat.dll");
+	XXX.push_ban("https://www.youtube.com/watch?v=Wp3dNTMbyho");
 	moduly.push_back("bdcam.dll");
 	moduly.push_back("SHUNIMPL.DLL");
 	moduly.push_back("wdmaud.drv");
