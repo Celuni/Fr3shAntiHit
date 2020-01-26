@@ -1,3 +1,5 @@
+//nie zapomnij dodac include 
+
 static std::vector<std::string> XXX;
 static std::vector<std::string> moduly;
 
